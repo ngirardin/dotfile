@@ -1,0 +1,9 @@
+[user]
+	name = Nicolas Girardin
+	email = ngirardin@gmail.com
+[merge]
+	tool = vimdiff
+[color]
+	ui = true
+[credential]
+	helper = cache --timeout=86400
